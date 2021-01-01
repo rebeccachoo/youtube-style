@@ -1,0 +1,103 @@
+:root {
+  --background-color: white;
+  --accent-color: white;
+  --link-color: cornflowerblue;
+  --text-padding: 3px 0;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Tahoma, "Segoe UI", Geneva, Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #464545;
+  padding: 12px 20px;
+}
+
+.navbar__logo a {
+  color: var(--accent-color);
+  font-size: 14px;
+}
+
+.navbar__logo i {
+  color: red;
+}
+
+.navbar__btn i {
+  color: white;
+}
+
+.navbar__btn .btn2 {
+  padding-left: 10px;
+}
+
+.video iframe {
+  width: 100%;
+  height: 415px;
+}
+
+.main {
+  width: 100%;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+}
+.main .leftside {
+  width: 100%;
+  padding: 8px 20px;
+}
+.main .rightside {
+  width: 100%;
+  padding: 15px 20px;
+}
+
+.main .main__hashtag a,
+.main .main__hashtag a:hover {
+  color: var(--link-color);
+  font-size: 15px;
+}
+.main .main__title {
+  font-size: 17px;
+  padding: var(--text-padding);
+}
+.main .main__info {
+  font-size: 12px;
+  color: grey;
+  padding: var(--text-padding);
+}
+.main .icons {
+  display: flex;
+  color: grey;
+  font-size: 24px;
+  justify-content: space-evenly;
+  padding: 20px 0;
+}
+.main .icons .icons__exp {
+  font-size: 11px;
+  text-align: center;
+  padding: 2px 0;
+}
+.each__icon a,
+.each__icon a:hover,
+.each__icon a:visited {
+  color: grey;
+}
+
+@media screen and (max-width: 768px) {
+  .main {
+    flex-direction: column;
+  }
+  .video iframe {
+    width: 100%;
+    height: 315px;
+  }
+}
