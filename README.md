@@ -1,4 +1,4 @@
-![Screenshot](FireShot Capture 726 - Youtube - 127.0.0.1.png)
+
 
 # Youtube style page
 
