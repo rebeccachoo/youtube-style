@@ -1,3 +1,5 @@
+![Screenshot](FireShot Capture 726 - Youtube - 127.0.0.1.png)
+
 # Youtube style page
 
 This is one web page that you can put a youtube link to play. It has buttons that looks similar to Youtube.
