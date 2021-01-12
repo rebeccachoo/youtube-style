@@ -7,12 +7,14 @@ This is one web page that you can put a youtube link to play. It has buttons tha
 | Feature | Description |
 | ----- | ----------- |
 |  Image | ![image description](https://github.com/rebeccachoo/youtube-style/blob/main/FireShot%20Capture%20726%20-%20Youtube%20-%20127.0.0.1.png?raw=true)       |
-|  Usage | On line 31 in index.html, you can change the link to show it on the page.       |
 
 
 ## Installation
 
 You can download the files. And you can download font-awesome or put cdn link on line #8 in index.html. And click index.html to see the page.
+
+## How to use
+On line 31 in index.html, you can change the link to show it on the page.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
