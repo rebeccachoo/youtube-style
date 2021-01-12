@@ -5,7 +5,7 @@
 This is one web page that you can put a youtube link to play. It has buttons that looks similar to Youtube.
 
 | Feature | Description |
-| ----- | ----------- |
+| -----: | ----------- |
 |  Image | <img src="https://github.com/rebeccachoo/youtube-style/blob/main/Screen%20Shot%202021-01-12%20at%208.45.02%20AM.png?raw=true"  width="400">|
 
 
