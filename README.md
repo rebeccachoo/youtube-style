@@ -4,7 +4,11 @@
 
 This is one web page that you can put a youtube link to play. It has buttons that looks similar to Youtube.
 
-![image description](https://github.com/rebeccachoo/youtube-style/blob/main/FireShot%20Capture%20726%20-%20Youtube%20-%20127.0.0.1.png?raw=true)
+| Header | Description |
+| -----: | ----------- |
+|  Cell1 | ![image description](https://github.com/rebeccachoo/youtube-style/blob/main/FireShot%20Capture%20726%20-%20Youtube%20-%20127.0.0.1.png?raw=true)       |
+|  Cell3 | Cell3       |
+
 
 ## Installation
 
