@@ -6,7 +6,7 @@ This is one web page that you can put a youtube link to play. It has buttons tha
 
 | Feature | Description |
 | ----- | ----------- |
-|  Image | ![image description](<img src="https://github.com/rebeccachoo/youtube-style/blob/main/Screen%20Shot%202021-01-12%20at%208.45.02%20AM.png?raw=true" width=100>)       |
+|  Image | ![image description](<img src="https://github.com/rebeccachoo/youtube-style/blob/main/Screen%20Shot%202021-01-12%20at%208.45.02%20AM.png?raw=true" width="100" />)       |
 
 
 ## Installation
