@@ -4,6 +4,8 @@
 
 This is one web page that you can put a youtube link to play. It has buttons that looks similar to Youtube.
 
+![image description](https://github.com/rebeccachoo/youtube-style/blob/main/FireShot%20Capture%20726%20-%20Youtube%20-%20127.0.0.1.png?raw=true)
+
 ## Installation
 
 You can download the files. And you can download font-awesome or put cdn link on line #8 in index.html. And click index.html to see the page.
