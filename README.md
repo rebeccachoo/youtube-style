@@ -2,7 +2,7 @@
 
 # Youtube Style Page(single html file and single css file)
 
-This is one web page that you can put a youtube link to play. It has buttons that looks similar to Youtube.
+This is one web page that looks similar to youtube video page. You can put a youtube link to play. It has buttons that looks similar to Youtube.
 <br /><br />
 
 | Feature | Description |
