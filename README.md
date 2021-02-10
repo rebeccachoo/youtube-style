@@ -1,6 +1,6 @@
 
 
-# Youtube Style Page(single html file and single css file)
+# Javascript - Youtube style page(single html file and single css file)
 
 This is one web page that looks similar to youtube video page. You can put a youtube link to play. It has buttons that looks similar to Youtube.
 <br /><br />
